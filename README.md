@@ -1,1 +1,3 @@
-Repositório criado para depositar commits do TechAcademy
+Repositório criado para depositar commits do site STAIM
+
+- Site feito para a matéria de TADS
