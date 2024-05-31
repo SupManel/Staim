@@ -4,3 +4,19 @@ $clear: #6cf;
 $font1: Montserrat, Tahoma;
 $font2: Tahoma, Verdana;
 $margin: 10px;
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: $secondary;
+    padding: 20px;
+    box-sizing: border-box;
+    .header-logo {
+        img{
+            width: 100px;
+        }
+    }
+}
