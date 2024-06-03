@@ -11,14 +11,24 @@
 </head>
 <body>
     <header class="header">
-        <a href="index.html" title="Staim" class="header-logo">
+        <a href="index.php" title="Staim" class="header-logo">
             <img src="Imagens/T2.png">
         </a>
         <nav class="header-menu">
             <ul>
                 <li>
                     <a href="">
-                        
+                        a
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        a
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        a
                     </a>
                 </li>
             </ul>

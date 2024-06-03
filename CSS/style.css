@@ -9,7 +9,11 @@
   box-sizing: border-box;
 }
 .header .header-logo img {
-  width: 100px;
+  width: 50px;
+}
+.header .header-menu ul li a {
+  list-style: none;
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=style.css.map */
