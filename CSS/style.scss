@@ -5,3 +5,10 @@ $font1: Montserrat, Tahoma;
 $font2: Tahoma, Verdana;
 $margin: 10px;
 
+.navbar {
+    & .navbar-brand {
+        & img {
+            height: 40px;
+        }
+    }
+}
