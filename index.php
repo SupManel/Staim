@@ -48,16 +48,24 @@
   <div id="carouselExample" class="carousel slide">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="Imagens/BannerCowboy.jpg" class="d-block w-100" alt="Jogo">
+        <a href="badboy.php">
+          <img src="Imagens/BannerCowboy.jpg" class="d-block w-100" alt="Jogo">
+        </a>
       </div>
       <div class="carousel-item">
-        <img src="Imagens/BannerAsteroide.jpg" class="d-block w-100" alt="Jogo">
+        <a href="jogo2.php">
+          <img src="Imagens/BannerAsteroide.jpg" class="d-block w-100" alt="Jogo">
+        </a>
       </div>
       <div class="carousel-item">
-        <img src="Imagens/BannerCurse.jpg" class="d-block w-100" alt="Jogo">
+        <a href="jogo4.php">
+          <img src="Imagens/BannerCurse.jpg" class="d-block w-100" alt="Jogo">
+        </a>
       </div>
       <div class="carousel-item">
-        <img src="Imagens/BannerTommy.jpg" class="d-block w-100" alt="Jogo">
+        <a href="jogo3.php">
+          <img src="Imagens/BannerTommy.jpg" class="d-block w-100" alt="Jogo">
+        </a>
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -119,9 +127,11 @@
 </body>
 <footer class="footer text-center bg-secondary">
   <div class="text-uppercase">
-  <p style="color: black;">Site desenvolvido por Emanuel Ramos Paiva</p>
-  <a href="https://github.com/SupManel" class="text-decoration-none" style="color: black;">GitHub<i class="fa-brands fa-github"></i></a>
-  <a href="https://www.instagram.com/emanuel_r_p/" class="text-decoration-none" style="color: black;"> Instagram <i class="fa-brands fa-instagram"></i></a>
+    <p style="color: black;">Site desenvolvido por Emanuel Ramos Paiva</p>
+    <a href="https://github.com/SupManel" class="text-decoration-none" style="color: black;">GitHub<i
+        class="fa-brands fa-github"></i></a>
+    <a href="https://www.instagram.com/emanuel_r_p/" class="text-decoration-none" style="color: black;"> Instagram <i
+        class="fa-brands fa-instagram"></i></a>
   </div>
 </footer>
 <script src="bootstrap-5.3.3/dist/js/bootstrap.bundle.js"></script>

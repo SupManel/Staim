@@ -46,7 +46,7 @@
     </div>
   </nav>
   <div class="centro">
-  <iframe src="games/Rocket/project.c3proj" width="1000" height="500" scrolling="no" noresize="noresize"></iframe>
+  <iframe src="games/Rocket/index.html" width="1000" height="500" scrolling="no" noresize="noresize"></iframe>
   </div>
   <footer class="footer text-center bg-secondary">
     <div class="text-uppercase">
