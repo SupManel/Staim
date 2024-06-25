@@ -7,8 +7,14 @@
   margin-top: 20px;
 }
 
-#footer {
+.centro {
+  text-align: center;
+}
+
+.footer {
+  padding: 10px;
   text-decoration: none;
+  list-style: none;
 }
 
 /*# sourceMappingURL=style.css.map */

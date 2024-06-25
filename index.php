@@ -30,9 +30,6 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="quemsomos.php">Quem Somos</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="faleconosco.php">Fale Conosco</a>
-          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown"
               aria-expanded="false">
@@ -103,7 +100,7 @@
           <div class="card-body">
             <h5 class="card-title text-uppercase">Tommy Adventure</h5>
             <a href="jogo3.php" class="btn btn-info text-uppercase"><i class="fa-solid fa-circle-info"></i>Info</a>
-            <a href="jjogo.php" class="btn btn-success text-uppercase"><i class="fa-solid fa-play"></i>Jogar</a>
+            <a href="jjogo3.php" class="btn btn-success text-uppercase"><i class="fa-solid fa-play"></i>Jogar</a>
           </div>
         </div>
       </div>
@@ -120,11 +117,12 @@
     </div>
   </div>
 </body>
-<footer>
-  <p class="text-center bg-secondary" id="footer">
-    <a href="https://github.com/SupManel">GitHub<i class="fa-brands fa-github"></i></a>
-    <a href="https://www.instagram.com/emanuel_r_p/">Instagram<i class="fa-brands fa-instagram"></i></a>
-  </p>
+<footer class="footer text-center bg-secondary">
+  <div class="text-uppercase">
+  <p style="color: black;">Site desenvolvido por Emanuel Ramos Paiva</p>
+  <a href="https://github.com/SupManel" class="text-decoration-none" style="color: black;">GitHub<i class="fa-brands fa-github"></i></a>
+  <a href="https://www.instagram.com/emanuel_r_p/" class="text-decoration-none" style="color: black;"> Instagram <i class="fa-brands fa-instagram"></i></a>
+  </div>
 </footer>
 <script src="bootstrap-5.3.3/dist/js/bootstrap.bundle.js"></script>
 <script src="https://kit.fontawesome.com/4d675d3e85.js" crossorigin="anonymous"></script>
